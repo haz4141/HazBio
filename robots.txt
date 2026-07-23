@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hazbio.vercel.app/sitemap.xml
+Sitemap: https://haz-bio.vercel.app/sitemap.xml
